@@ -21,4 +21,4 @@ The project uses unsupervised technique to apply K-mean algorithm to a data of m
 K-means algorithm classify the customer into 5 cluster that describe their behavior according to income and age.
 
 
-*Thee are the simple machine learning projects. I hope to work on more complicated projects in the near future*
+**Thee are the simple machine learning projects. I hope to work on more complicated projects in the near future**
